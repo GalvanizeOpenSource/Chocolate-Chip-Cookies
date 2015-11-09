@@ -25,6 +25,7 @@ Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthaste
 - 2 1/4 cups all-purpose flour
 - 1/2 teaspoon baking soda
 - 2 cups (about 12 ounces) semisweet and/or milk chocolate chips
+- 1/2 cup chopped walnuts <-- This is Graham's Suggestion!
 
 ##Cooking Directions
 - Preheat oven to 350 degrees.
