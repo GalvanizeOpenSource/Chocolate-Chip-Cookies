@@ -25,6 +25,8 @@ Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthaste
 - 2 1/4 cups all-purpose flour
 - 1/2 teaspoon baking soda
 - 2 cups (about 12 ounces) semisweet and/or milk chocolate chips
+- no gluten ***
+
 
 
 ##Cooking Directions
